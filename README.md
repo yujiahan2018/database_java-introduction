@@ -3,35 +3,9 @@
 #### 介绍
 初步学习Java与Mysql相关知识，实现通过Java代码对数据库的增删改查四大基本操作，为后面Java spring框架学习奠定基础
 
-#### 软件架构
-软件架构说明
+#### 参考资料
+[带上咖啡启迪Java编程思维（主讲教师:史宏）](https://mooc2-ans.chaoxing.com/mycourse/stu?courseid=222634751&clazzid=50614753&cpi=161528795&enc=24b90bd0323dd3302ed6c705eed86930&t=1645258810596&pageHeader=1)
 
+#### 运行结果实例图
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![运行结果实例](E:\Java\Mysql与Java初探\Typora_picture\运行结果实例.png)
