@@ -26,6 +26,7 @@ public class Main {
             System.out.println("0.退出程序\n1.增加数据\t2.删除数据\n3.修改已有数据\t4.查询数据");
             int choose = input.nextInt();
 
+            System.out.println();
             if (choose>=0 && choose<=4){
                 switch (choose){
                     //添加数据
@@ -79,6 +80,7 @@ public class Main {
 
             }else System.out.println("请输入0~4以内数字");
 
+            System.out.println("\n");
         }
 
     }
