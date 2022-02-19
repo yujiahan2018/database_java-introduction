@@ -8,4 +8,7 @@
 
 #### 运行结果实例图
 
-![运行结果实例](E:\Java\Mysql与Java初探\Typora_picture\运行结果实例.png)
+![运行结果实例图](readme_resource/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C%E5%AE%9E%E4%BE%8B.png)
+
+#### 其他
+出于学习需要，对视频中的部分代码进行了合理改动
