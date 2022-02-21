@@ -90,7 +90,7 @@ public class DB_initial {
     }
 
     /**
-     * 增删改查方法
+     * 增删改方法
      */
     public int updata(String sql,Object... params){//考虑为什么是int类型？
         Connection ct = null;
