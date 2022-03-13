@@ -117,7 +117,7 @@ public class DB_initial {
         } catch (SQLException e) {
             e.printStackTrace();
         }finally {
-            close(ct,ps,null);
+            close(ct,ps,null);//此处并没有关闭连接
         }
 
         return 0;
